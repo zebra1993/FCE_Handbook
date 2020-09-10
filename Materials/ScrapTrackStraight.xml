@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>ScrapTrackStraight</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scrap Track Straight</Text>
+				</Title>
+				<Icon>
+					<Name>ScrapTrackStraight</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows freight carts to travel in a straight line at low speeds.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

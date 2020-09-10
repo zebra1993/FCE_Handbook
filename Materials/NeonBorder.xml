@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>NeonBorder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Neon Border</Text>
+				</Title>
+				<Icon>
+					<Name>Neon Border</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nice, Stylish decoration. Can be painted with your Paintgun.
+					Can be autocrafted form your Constructionpaste in your Inventory!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

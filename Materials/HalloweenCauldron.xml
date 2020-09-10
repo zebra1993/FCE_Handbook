@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>HalloweenCauldron</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Halloween Cauldron</Text>
+				</Title>
+				<Icon>
+					<Name>Halloween Cauldron</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cauldron of a mix of unknown demonic ingredients. Gives of a eery green all year around.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

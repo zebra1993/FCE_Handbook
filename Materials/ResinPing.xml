@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>ResinPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Resin Ping</Text>
+				</Title>
+				<Icon>
+					<Name>Resin Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Resin Ping is used to find Resin growths. Hiveminds in the ground can be harvested for their Resin or be destroyed to prevent them becoming a risk to your Operations. For more information refer to the help guidance for the Blank Ore Ping.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Blank Ore Ping</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

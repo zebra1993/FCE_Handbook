@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>CompressedSulphur</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Compressed Sulphur</Text>
+				</Title>
+				<Icon>
+					<Name>Compressed Sulphur</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Canister that stores Compressed Sulphur</Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

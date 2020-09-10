@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>EmptyMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Empty Missile</Text>
+				</Title>
+				<Icon>
+					<Name>Empty Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Unfueled but fully Programmed and Warhead fitted Missile. Add some Fuel and shes ready to give 'em Hell.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>GroovedCement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Grooved Cement</Text>
+				</Title>
+				<Icon>
+					<Name>Grooved Cement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nice, Stylish decoration. Can be painted with your Paintgun.
+					Can be autocrafted form your Constructionpaste in your Inventory!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

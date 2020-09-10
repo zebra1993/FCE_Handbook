@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>SuperHardRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Super Hard Rock</Text>
+				</Title>
+				<Icon>
+					<Name>SuperHardRock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Ore can be found below the Magma Caverns. Our system cant find it in any combination of known Elements. For now we dont have a way to dig it up or to use it.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

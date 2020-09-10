@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>FreezeMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>CryoChilled Missile</Text>
+				</Title>
+				<Icon>
+					<Name>CryoChilled Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ammunition for the Missile Launcher. This missile's Warhead has been replaced by a Freezon Canister with Proximity Detonator. The Compressed Freezon flash freezes the Athmosphere on Detonation, causing the Wings of the Target to Freeze for a short Period of Time, slowing to Target down.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Damage:
+					Effect:</Left>
+					<Right>517,500
+					Slows Enemy</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

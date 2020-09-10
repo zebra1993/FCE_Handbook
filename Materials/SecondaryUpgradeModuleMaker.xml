@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>SecondaryUpgradeModuleMaker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Secondary Upgrade Module Maker</Text>
+				</Title>
+				<Icon>
+					<Name>SecondaryUpgradeModuleMaker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Machine crafts Secondary Upgrade Modules from Fortified PCB's.</Text>
+				</Paragraph>
+					<Link>
+						<Target>
+							<Material>Secondary Upgrade Module</Material>
+						</Target>
+						<Text>Secondary Upgrade Module</Text>
+					</Link>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

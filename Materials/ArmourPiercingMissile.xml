@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>ArmourPiercingMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Armour Piercing Missile</Text>
+				</Title>
+				<Icon>
+					<Name>Armour Piercing Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ammunition for the Missile Launcher. The upgraded Warhead is added in a Armour Piercing Warhead Fitter.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Damage:</Left>
+					<Right>750,000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

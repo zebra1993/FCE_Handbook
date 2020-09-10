@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>SpoiledOrganicRemains</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Spoiled Organic Remains</Text>
+				</Title>
+				<Icon>
+					<Name>SpoiledOrganicRemains</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>These Organic parts have already started to decompose because they werent cooled when stored. They are worthless by now, maybe a macerator can take something usefull from them.</Text>
+				</Paragraph>
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

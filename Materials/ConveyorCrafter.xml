@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>ConveyorCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Conveyor Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>ConveyorCrafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Upcrafts a Basic Conveyor with Tin Plates and Copper Wire to boost the Conveyor speed.
+					Helpfull if you don't wan't to upcraft all the Basic Conveyors yourself.
+					Boost that throughput as high you can.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,60 @@
+﻿<Chapter>
+	<Handle>CommunityGuides</Handle>
+	<Title>Community Guides</Title>
+	<Icon>Improved Ore Scanning</Icon>
+	<Hidden>false</Hidden>
+<!-- ?? -->
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Community Guides</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore Scanning</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<URL>https://steamcommunity.com/sharedfiles/filedetails/?id=1980435069</URL>
+					</Target>
+					<Text>Compact Garbage Thieves</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://steamcommunity.com/sharedfiles/filedetails/?id=1979576564</URL>
+					</Target>
+					<Text>Compact Research Lab</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://steamcommunity.com/sharedfiles/filedetails/?id=1985831210</URL>
+					</Target>
+					<Text>Component Maker, Smelter, Lift, Extractor</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://steamcommunity.com/sharedfiles/filedetails/?id=1981647219</URL>
+					</Target>
+					<Text>Automation, Base Layout Spoilers</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://steamcommunity.com/sharedfiles/filedetails/?id=1986335869</URL>
+					</Target>
+					<Text>Building up in the Sky (NOT Mod or Mutator)</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>http://steamcommunity.com/app/254200/workshop/</URL>
+					</Target>
+					<Text>PlaceHolder</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>For Improvements and Suggestions, the community is always around on Twitter, Discord, Reddit or the Steam forums!</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

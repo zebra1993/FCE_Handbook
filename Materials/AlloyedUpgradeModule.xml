@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>AlloyedPCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Alloyed Upgrade Module</Text>
+				</Title>
+				<Icon>
+					<Name>Alloyed Upgrade Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Upgrade is used in Upgrades, as the name implies, of lower to higher tier Machines. This Module is crafted in it dedicated Crafting machine. </Text>
+				</Paragraph>
+					<Link>
+						<Target>
+							<Material>Alloyed Upgrade Module Maker</Material>
+						</Target>
+						<Text>Alloyed Upgrade Module Maker</Text>
+					</Link>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

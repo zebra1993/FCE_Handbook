@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>PumpkinTorch</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pumpkin Torch</Text>
+				</Title>
+				<Icon>
+					<Name>Pumpkin Torch</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Gives of a nice yellow light, as you would expect from a Jack-o-Lantern. Can be walked through, SpoOocky</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

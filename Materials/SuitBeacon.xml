@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>SuitBeacon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Suit Beacon</Text>
+				</Title>
+				<Icon>
+					<Name>Warning Strobe</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>On Death, this Emergency Beacon is ejected from your Suit. This will allow a clone of you to find your Suit again and get your Inventory back. (Strongly recomended in Clumsy mode)</Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

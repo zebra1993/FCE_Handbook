@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>T3_FuelCompressorPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fuel Compressor</Text>
+				</Title>
+				<Icon>
+					<Name>FuelCompressor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Compresses carbon particulates with High-Energy Composite Fuel to generate an extremely volatile and energy-rich fuel source. Build in a 3x3x3 configuration.</Text>
+				</Paragraph>
+	
+
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

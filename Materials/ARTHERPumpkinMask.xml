@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERMaskPumpkin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Pumpkin Mask</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Pumpkin Mask</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Crumpled Pumpkin Mask to give Arther a Jack-o-lantern look as a remembering of Helooween back home on Terra.</Text>
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

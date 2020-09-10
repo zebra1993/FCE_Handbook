@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Key>ChevronTraffic</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chevron Traffic</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Traffic</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Orange on white marked Areas indicate moving parts of machines or energized Equiptment which may cut, crush, shock or otherwise injure. 
+					Also indicates possible hazards on opened enclosures or Belt, Gear guards are open to expose a unguarded hazard. 
+					
+					Open the self crafting interface (default &#39;C&#39;) to manufacture these.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

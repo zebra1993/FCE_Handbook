@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>RaygunV1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ray Gun V1</Text>
+				</Title>
+				<Icon>
+					<Name>Ray Gun V1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Raygun is a Energy, Beam based weapon who allows you to tickle the enemies a bit but can perfectly used to wipe out defenseless local liveforms.</Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

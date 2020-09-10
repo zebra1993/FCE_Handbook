@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>RobotArmMK1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>MK1 Robot Arm</Text>
+				</Title>
+				<Icon>
+					<Name>MK1 Robot Arm</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Machine is REALY Old, dont use it. Its not worth the hustle to get it working</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

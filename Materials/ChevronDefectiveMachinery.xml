@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>ChevronDefectiveMachinery</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chevron Defective Machinery</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Defective Machinery</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Blue on White marked Area indicates informational signs and Bulletin boards. It also warns of possible Railroad Hazards against starting, use or movement of Equiptment thats currently under repair or is worked on. 
+					
+					Open the self crafting interface (default &#39;C&#39;) to manufacture these.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

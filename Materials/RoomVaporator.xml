@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>Room_Vaporator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Room Vaporator</Text>
+				</Title>
+				<Icon>
+					<Name>Room_Vaporator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Use to increase the rate of Plant growth inside your rooms.
+					Check the Roomcontroller on the need of more Vaporators. Dont go over Board or your Suit cant keep the Visor from fogging up</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

@@ -1,0 +1,29 @@
+<MaterialEntry>
+	<Key>PoisonMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mephitic Missile</Text>
+				</Title>
+				<Icon>
+					<Name>Mephitic Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ammunition for the Missile Launcher. Deals on Impact a average Amount of Damage but also, due to the fitted Sulfuric gas Canister, posions the Target over the a Period of time, dealing additional Damage.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Damage:
+					Effect:</Left>
+					<Right>450,000
+					Poisons Enemy</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

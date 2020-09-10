@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>ClusterMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cluster Missile</Text>
+				</Title>
+				<Icon>
+					<Name>Cluster Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ammunition for the Missile Launcher. Part of a Multi launch system, this Missile deals low Damage but as its part of a bigger Volley they have a Good Punch over all. </Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Damage:</Left>
+					<Right>112,500</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>ChevronFirstAid</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chevron First Aid</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron First Aid</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Green on White marked Areas are used to indicate Safety or First Aid Equitpment. In Case of Emergency go to this Area to receive First aid. 
+					
+					Open the self crafting interface (default &#39;C&#39;) to manufacture these.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

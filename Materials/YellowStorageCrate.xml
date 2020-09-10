@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>YellowStorageCrate</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Yellow Storage Crate</Text>
+				</Title>
+				<Icon>
+					<Name>StorageCrate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Read &#39;chest&#39;. Placing Storage crates next to each other will create a larger combined storage. Each crate has 2 item slots.
+					This storage solution can't be automated. Keep the connected Crates low to lower the time of updating in Multiplayer</Text>
+				</Paragraph>
+        </Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

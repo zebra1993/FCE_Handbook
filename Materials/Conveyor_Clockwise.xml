@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>Conv_CW</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Conveyor Clockwise</Text>
+				</Title>
+				<Icon>
+					<Name>ConveyorClockwise</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Let's you tidy up that ugly 90° offset for Conveyor curves. They also make quite nice doorway decorations!
+					Can be autocrafted as long as you have normal straight conveyors in your inventory.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,23 @@
+﻿<MaterialEntry>
+	<Key>SpaceGrille</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Space Grille</Text>
+				</Title>
+				<Icon>
+					<Name>Space Grille</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nice, Stylish decoration. 
+					Its mesh scructure allows Beamed energy to pass.
+					Can be autocrafted form your Constructionpaste in your Inventory!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

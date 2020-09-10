@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>Room_Cooler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Room Cooler</Text>
+				</Title>
+				<Icon>
+					<Name>Room_Cooler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Used in the Magma Cavern to reduce suit power usage.
+					Check the Roomcontroller on the need of more Coolers.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

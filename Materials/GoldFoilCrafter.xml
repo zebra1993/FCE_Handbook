@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>GoldFoilCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Foil Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>GoldFoilCrafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Rolls 5 Gold Wires together into one Gold Foil.</Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

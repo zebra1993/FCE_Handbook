@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>HighOctaneFuel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>High Octane Fuel</Text>
+				</Title>
+				<Icon>
+					<Name>Fusion Reactor Monitor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Fuel for use in the HODOR Missile System.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

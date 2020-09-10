@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>CompressedFreon</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Compressed Freezon Canister</Text>
+				</Title>
+				<Icon>
+					<Name>CompressedFreon</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Canister that stores Compressed Freezon</Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

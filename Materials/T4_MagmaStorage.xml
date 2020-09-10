@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>MagmaStoragePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Magma Storage</Text>
+				</Title>
+				<Icon>
+					<Name>T4_Magma_Storage</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Receives, Stores and forwards Fluid Magma from and to appropriate machines via Fluid Pipes.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

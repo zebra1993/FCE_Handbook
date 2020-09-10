@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>UltimateUpgradeModuleMaker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultimate Upgrade Module Maker</Text>
+				</Title>
+				<Icon>
+					<Name>UltimateyUpgradeModuleMaker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Machine crafts Ultimate Upgrade Modules from Alloyed Upgrade Modules, Primary Upgrade Modules and Charged Lithium Coils.</Text>
+				</Paragraph>
+					<Link>
+						<Target>
+							<Material>Alloyed Upgrade Module</Material>
+						</Target>
+						<Text>Alloyed Upgrade Module</Text>
+					</Link>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

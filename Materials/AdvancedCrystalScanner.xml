@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>CrystalScannerV2</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Advanced Crystal Scanner</Text>
+				</Title>
+				<Icon>
+					<Name>Improved Ore ScanningMk2</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Suit upgrade gives your Scanner a better Antenna to receive the resonance response of all Crystals in your surroundings. The Locations are visualised in your Holoview mode of your Suit. (Default &#39;K&#39;)</Text>
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

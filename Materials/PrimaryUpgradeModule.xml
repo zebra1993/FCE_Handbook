@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>PrimaryUpgradeModule</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Primary Upgrade Module</Text>
+				</Title>
+				<Icon>
+					<Name>PrimaryUpgradeModule</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Upgrade Module is used in various lower tier Crafting recipies.</Text>
+				</Paragraph>
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

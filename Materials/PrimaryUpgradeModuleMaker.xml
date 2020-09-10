@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>PrimaryUpgradeModuleMaker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Primary Upgrade Module Maker</Text>
+				</Title>
+				<Icon>
+					<Name>PrimaryUpgradeModuleMaker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Turns 10 Tin PCBs into one useful Primary Upgrade Module.</Text>
+				</Paragraph>
+					<Link>
+						<Target>
+							<Material>Primary Upgrade Module</Material>
+						</Target>
+						<Text>Primary Upgrade Module</Text>
+					</Link>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

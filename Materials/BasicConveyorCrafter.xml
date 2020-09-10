@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>BasicConveyorCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic Conveyor Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>BasicConveyorCrafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Crafts 15 Basic conveyors from a single Copper Bar. Helpfull if you don't wan't to craft all the Conveyors yourself. 
+					Will also make the Progression to automated normal Conveyor creation easier. </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

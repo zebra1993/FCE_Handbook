@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>ChevronAisleMarking</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chevron Aisle Marking</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Aisle Marking</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Black on White Areas are to be kept clear for Operational purposes. This is not Safety Related but still has to be kept clear. 
+					
+					Open the self crafting interface (default &#39;C&#39;) to manufacture these.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

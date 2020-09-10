@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>CelticBraidPillar</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Celtic Braid Pillar</Text>
+				</Title>
+				<Icon>
+					<Name>Celtic Braid Pillar</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nice, Stylish decoration. Can be painted with your Paintgun.
+					Can be autocrafted form your Constructionpaste in your Inventory!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

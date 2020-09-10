@@ -1,0 +1,55 @@
+﻿<Chapter>
+	<Handle>CommunityLinks</Handle>
+	<Title>Community Links!</Title>
+	<Icon>ARTHER Dapper Monocle</Icon>
+	<Hidden>false</Hidden>
+<!-- ?? -->
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Community Links</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Pack</Name>
+				</Icon>
+				<Link>
+					<Target>
+						<URL>https://twitter.com/Fortress_Craft</URL>
+					</Target>
+					<Text>Twitter!</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://discord.gg/advmf8S</URL>
+					</Target>
+					<Text>Discord!</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://www.reddit.com/r/FCE/</URL>
+					</Target>
+					<Text>Reddit!</Text>
+				</Link>
+				
+				<Link>
+					<Target>
+						<URL>http://fortresscrafte.wikia.com/wiki/FortressCraft_Evolved_Wiki</URL>
+					</Target>
+					<Text>Wikia!</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>https://www.fcedb.com/</URL>
+					</Target>
+					<Text>FCEDB Gamefile driven Wiki</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Remember you can always talk to me on twitter @fortress_craft or the Steam forums! - Dj</Text>
+				</Paragraph>
+			
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>

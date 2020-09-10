@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>OneWayTrack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>One Way Track</Text>
+				</Title>
+				<Icon>
+					<Name>One Way Track</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Directs Freight Carts in one direction</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

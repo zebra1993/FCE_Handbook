@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Magmacite</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Magmacite</Text>
+				</Title>
+				<Icon>
+					<Name>Magmacite</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Ore can be found in the Magma Caverns. Our system cant find it in any combination of known Elements. For now we dont have a way to dig it up or to use it.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

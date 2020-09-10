@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ScrapOneWayTrack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scrap One-Way Track</Text>
+				</Title>
+				<Icon>
+					<Name>Scrap One Way Track</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Directs Freight Carts in one direction at low speeds.</Text>
+				</Paragraph>
+		
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

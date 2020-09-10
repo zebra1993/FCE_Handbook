@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>PlasmaImbuedMissile</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Plasma-Imbued Missile</Text>
+				</Title>
+				<Icon>
+					<Name>Plasma-Imbued Missile</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Ammunition for the Missile Launcher. This missile has been fitted with a High energy Detontator that turns the Warhead into a Cloud of High energy Plasma at impact</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Damage:</Left>
+					<Right>450,000</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

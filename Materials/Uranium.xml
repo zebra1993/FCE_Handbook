@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>Uranium</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Uranium</Text>
+				</Title>
+				<Icon>
+					<Name>Uranium</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Ore can be found below the Magma Caverns. Back on Terra we used this stuff to make Energy. But here with no Water in big quantities, hard to get a Steamturbine running.
+					
+					You would need to be Flexible Games to botch together a Nuclear Reactor system. And it still be Buggi if you get it running.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

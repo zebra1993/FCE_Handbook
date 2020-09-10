@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>Room_Heater</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Room Heater</Text>
+				</Title>
+				<Icon>
+					<Name>Room_Heater</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Used in the Cold Cavern to reduce suit power usage.
+					Check the Roomcontroller on the need of more Heaters to get a cozy Workenvironment.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

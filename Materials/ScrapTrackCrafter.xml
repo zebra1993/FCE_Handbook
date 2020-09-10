@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>ScrapTrackCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scrap Track Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>ScrapTrackCrafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Builds cheap but slow ScrapTrack.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

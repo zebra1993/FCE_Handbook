@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>OrganicReassembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Organic Reassembler</Text>
+				</Title>
+				<Icon>
+					<Name>Organic Reassembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Crafts Ruined Organic Components from ruined Parts</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

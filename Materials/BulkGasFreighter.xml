@@ -1,0 +1,48 @@
+<MaterialEntry>
+	<Key>GasFreighterT4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bulk Gas Freighter</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Gas Freighter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Bulk freight transit for Gas canisters.
+					</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Max Speed:
+					Max Storage:
+					Acceleration:
+					Accepted Freight:
+					</Left>
+					<Right>1m/s
+					1000
+					0.5m/s/s
+					Compressed Sulphur
+					Compressed Chlorine
+					Compressed Freezon Canister</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Gas freighters are high capacity freight carts.  Unlike their conventional variants they can only carry one item type at a time and it must be a type of harvestable Gas.</Text>>
+				</Paragraph>
+				<Spacer/>
+				
+				<Link>
+					<Target>
+						<Material>Freight Cart Depot</Material>
+					</Target>
+					<Text>Freight Cart Depot</Text>
+				</Link>
+			</Paragraphs>
+		</Page>				
+	</Pages>
+</MaterialEntry>

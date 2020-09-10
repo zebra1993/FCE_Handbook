@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>SLODRSPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>H.O.D.O.R.</Text>
+				</Title>
+				<Icon>
+					<Name>SLODRS</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows launching of a missile to knock orbital debris down to the surface. 
+					The Missile itself is Digistructed to be cheaper in bigger usage Volume.
+					Fueles by High Octane Fuel from a Fuelcompressor.
+					
+					Build in a 3x1x3 configuration.</Text>
+				</Paragraph>
+	
+
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

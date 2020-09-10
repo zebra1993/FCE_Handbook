@@ -1,0 +1,22 @@
+﻿<MaterialEntry>
+	<Key>ChilledReinforcedRock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chilled Reinforced Rock</Text>
+				</Title>
+				<Icon>
+					<Name>Chilled Reinforced Rock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Reinforced Wall building block.
+					Can be autocrafted form your Constructionpaste in your Inventory!</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

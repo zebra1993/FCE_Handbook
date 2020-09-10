@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>MinecartTrackCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Minecart Track Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>MinecartTrackCrafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Upcrafts ScrapTrack Rails into into faster Minecart Track Trails.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

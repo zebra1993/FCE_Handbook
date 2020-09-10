@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>PolishedChromeLens</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Polished Chrome Lens</Text>
+				</Title>
+				<Icon>
+					<Name>Polished Chrome Lens</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A Precision ground and mirror coated Lens to greatly enhance the Powertransmission rate and throughtput of a Laser Power transmitter.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Specifications</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Power Transmission Rate:</Left>
+					<Right>500%</Right>
+				</TwoColumnParagraph>			
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Key>MassStorageIO</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Mass Storage I/O Port</Text>
+				</Title>
+				<Icon>
+					<Name>Mass Storage IO Port</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A way to input and output items at a insanely fast speed. Requires a Mass Storage Controller attached to the Mass Storage Crates that this is attached to.
+					Mass Storage I/O Ports will draw power from the attached controller whenever inputting or outputting items.
+					To use it, consider it like a Hopper with more Storage. Use a Filter to get specific items out. If you have a none mixed MS, you can connect Mattermovers to it and extract at a quite high Throughput rate.
+					You can also attach any kind of mashine to it and it will instantly know what item to pull out of the mass storage and add into its own inventory to be ready to serve for the connected mashine.
+					This is most usefull for high troughput mashines like the mesh weaver or alloyed mashine block producer wich demand extreme amounts of single type material
+					</Text>
+				</Paragraph>
+				
+				<Spacer/>
+				<Header><Text>Specifications</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Maximum Transport Rate:
+					Power Required:</Left>
+					<Right>250 items per second
+					64 per item</Right>
+				</TwoColumnParagraph>
+	
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

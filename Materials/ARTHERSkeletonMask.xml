@@ -1,0 +1,25 @@
+<MaterialEntry>
+	<Key>ARTHERMaskSkeleton</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Skeleton Mask</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Skeleton Mask</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>	Spooky, scary skeletons
+							Send shivers down your spine
+							Shrieking skulls will shock your soul
+							Seal your doom tonight </Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

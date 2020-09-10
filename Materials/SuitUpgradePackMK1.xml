@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>AllInOne</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>MK1 Suit Upgrade Module</Text>
+				</Title>
+				<Icon>
+					<Name>MK1 Suit Upgrade Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Item combines the Suit Powerpack MK2, Solarcell, Suitheater, Headlight and the Particle Filter in one nice compact package. (Saves you some Suit inventory space). </Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

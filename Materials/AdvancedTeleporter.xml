@@ -1,0 +1,52 @@
+﻿<MaterialEntry>
+  <Key>NetworkTeleporter_CD</Key>
+  <Pages>
+    <Page>
+      <Paragraphs>
+        <Title>
+          <Text>AdvancedTeleporter</Text>
+        </Title>
+        <Icon>
+          <Name>NetworkTeleporter</Name>
+          <Alignment>Center</Alignment>
+        </Icon>
+        <Paragraph>
+          <Text>
+The network teleporter is a version of the teleporter than allows a user to instantly teleport between any other network teleport placement. To use; supply the teleporter with sufficient power, stand on in, and press Interact (default &apos;E&apos;) or the Jump key (default &apos;Space&apos;). A popup window will appear with a list of locations to available to be teleported to. The power required depends upon the distance teleported. 
+          </Text>
+        </Paragraph>
+        <Spacer/>
+        <Header>
+          <Text>Configuration</Text>
+        </Header>
+        <Paragraph>
+          <Text>
+The location name can be changed by clicking on the name. The X/Z teleport exit facing direction can be changed by looking in the exit direction desired, interact to launch the popup, and click the Change Exit Direction button.
+          </Text>
+        </Paragraph>
+      </Paragraphs>
+    </Page>
+    <Page>
+      <Paragraphs>
+        <Header>
+          <Text>Specifications</Text>
+        </Header>
+        <TwoColumnParagraph>
+          <Alignment>Center</Alignment>
+          <Left>
+Max. Teleport Distance:
+Power Required:
+Power Capacity:
+Max. Power Recharge Rate:
+          </Left>
+          <Right>
+Unlimited
+40 per meter
+Double Highest Cost
+Unlimited
+          </Right>
+        </TwoColumnParagraph>
+      </Paragraphs>
+    </Page>
+  </Pages>
+</MaterialEntry>

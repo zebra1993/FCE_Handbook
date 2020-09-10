@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>CompressedChlorine</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Compressed Chlorine Canister</Text>
+				</Title>
+				<Icon>
+					<Name>CompressedChlorine</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Canister that stores Compressed Chlorine</Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

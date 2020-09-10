@@ -1,0 +1,24 @@
+<MaterialEntry>
+	<Key>ChevronRadiation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chevron Radiation</Text>
+				</Title>
+				<Icon>
+					<Name>Chevron Radiation</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Magenta on Yellow Chevron signs are used to indicate differend Types of Hazardous Radiations. Namely: X-Ray, Alpha, Beta, Gamma, Neutron and Proton Radiation. 
+					Enter Area with Caution!
+					
+					Open the self crafting interface (default &#39;C&#39;) to manufacture these.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,26 @@
+<MaterialEntry>
+	<Key>SecondaryUpgradeModule</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Secondary Upgrade Module</Text>
+				</Title>
+				<Icon>
+					<Name>Secondary Upgrade Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Upgrade Module is used in various lower tier Crafting recipies. This Module is crafted in it dedicated Crafting machine.</Text>
+				</Paragraph>
+				<Link>
+						<Target>
+							<Material>Secondary Upgrade Module Maker</Material>
+						</Target>
+						<Text>Secondary Upgrade Module Maker</Text>
+					</Link>
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

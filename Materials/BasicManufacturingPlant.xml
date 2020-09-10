@@ -1,0 +1,23 @@
+<MaterialEntry>
+	<Key>BasicManufacturingPlant</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basic Manufacturing Plant</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Manufacturing Plant</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This is a Cut-down version of the normal Manufacturing Plant. This Machine is only able to use Storage as In-/Output. The Player can't craft manualy here. 
+					This machine requires Power to craft Items.</Text>
+				</Paragraph>
+
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

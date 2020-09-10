@@ -1,0 +1,58 @@
+<MaterialEntry>
+	<Key>PyrothermicGenerator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pyrothermic Generator</Text>
+				</Title>
+				<Icon>
+					<Name>Pyrothermic Generator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Pyrothermic Generator is the earliest method of generating power once you outgrow the capabilities of the Central Power Hub. It will look for an attached storage hopper containing combustible material and burn it to generate power. The unit itself is capable of storing up to 1000 power which it will distribute to any machine or Power Storage Block attached to it.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pyrothermic Generators require a large amount of oxygen to operate, the lack of ventilation underground will quickly decrease the efficiency of the generator with depth (below -20m). You should consider using Laser Power Transmitters to transfer power from the surface down to your deeper mining operations. </Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Pyrothermic Generators can be fed modified coal such as "enriched" and "infused". "Enriched" coal will double the power output of normal coal. "Infused" coal will double the output of "Enriched" coal. Research will unlock the machines for making these coal types.  </Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Specifications</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Max. Power Transfer Rate:
+					Burn Time:
+					Fuel:</Left>
+					<Right>1000
+					30 seconds
+					Wood, Coal.</Right>
+				</TwoColumnParagraph>
+				<Header>
+					<Text>World Settings</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Power (rush): 
+					Power (rapid): 
+					Power (plentiful): 
+					Power (scarce):
+					</Left>
+					<Right>160 per second (normal coal)
+					32 per second (normal coal)
+					11 per second (normal coal)
+					4.3 per second (normal coal)
+					</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

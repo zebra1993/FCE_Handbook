@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>UltimatePCB</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ultimate Upgrade Module</Text>
+				</Title>
+				<Icon>
+					<Name>Ultimate Upgrade Module</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Upgrade is used in Upgrades, as the name implies, of lower to higher tier Machines. This Module is crafted in it dedicated Crafting machine. </Text>
+				</Paragraph>
+					<Link>
+						<Target>
+							<Material>Ultimate Upgrade Module Maker</Material>
+						</Target>
+						<Text>Ultimate Upgrade Module Maker</Text>
+					</Link>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

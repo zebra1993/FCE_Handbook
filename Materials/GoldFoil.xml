@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>GoldFoil</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gold Foil</Text>
+				</Title>
+				<Icon>
+					<Name>Gold Foil</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Thin rolled Goldwire that is used variouse higher Tier craftign recipies.</Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

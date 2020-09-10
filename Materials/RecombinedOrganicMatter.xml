@@ -1,0 +1,20 @@
+<MaterialEntry>
+	<Key>RecombinedOrganicMatter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Recombined Organic Matter</Text>
+				</Title>
+				<Icon>
+					<Name>RecombinedOrganicMatter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Recombined matter is made of mix of ruined organic parts. By taking them appart on a molecular level and recombining them to a soup of possibilities, to upgraft from there.</Text>
+				</Paragraph>
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

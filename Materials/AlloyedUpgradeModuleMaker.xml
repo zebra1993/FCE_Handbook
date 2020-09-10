@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>AlloyedUpgradeModuleMaker</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Alloyed Upgrade Module Maker</Text>
+				</Title>
+				<Icon>
+					<Name>AlloyedUpgradeModuleMaker</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Machine crafts Alloyed Upgrade Modules from Secondary Upgrade Modules, Goldfoil and Titanium housings.</Text>
+				</Paragraph>
+					<Link>
+						<Target>
+							<Material>Alloyed Upgrade Module</Material>
+						</Target>
+						<Text>Alloyed Upgrade Module</Text>
+					</Link>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

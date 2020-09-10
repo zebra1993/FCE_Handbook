@@ -1,0 +1,22 @@
+<MaterialEntry>
+	<Key>PlasmaCutterHead</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Plasma Cutter Head</Text>
+				</Title>
+				<Icon>
+					<Name>Plasma Cutter Head</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>This Cutterhead has been improved to give the utmost effeciency and maximal extraction yield possible. </Text>
+
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

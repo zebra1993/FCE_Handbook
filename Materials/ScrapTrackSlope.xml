@@ -1,0 +1,19 @@
+<MaterialEntry>
+	<Key>ScrapTrackSlope</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scrap Track Slope</Text>
+				</Title>
+				<Icon>
+					<Name>ScrapTrackSlope</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Allows freight carts to travel up and down slopes at low speeds.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
