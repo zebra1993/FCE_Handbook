@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERSheet</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Ghost Costume</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Ghost Costume</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A Spooky Costume for Arther to scare all the Slimes, Camobots and Wasps away. (No Responsibility is held upon the Manufacturer if these Effects are not given)</Text>
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>

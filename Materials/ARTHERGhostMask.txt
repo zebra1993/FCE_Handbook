@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERMaskGhost</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Ghost Mask</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Ghost Mask</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>A Spooky Mask for Arther to scare all the Slimes, Camobots and Wasps away. (No Responsibility is held upon the Manufacturer if these Effects are not given)</Text>
+				</Paragraph>
+								
+			</Paragraphs>
+						
+		</Page>		
+	</Pages>
+</MaterialEntry>
